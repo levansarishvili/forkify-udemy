@@ -1,0 +1,27 @@
+{
+  "name": "forkify",
+  "version": "1.0.0",
+  "description": "Recipe application",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/levansarishvili/forkify-udemy.git"
+  },
+  "author": "Levani Sarishvili",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/levansarishvili/forkify-udemy/issues"
+  },
+  "homepage": "https://github.com/levansarishvili/forkify-udemy#readme",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.15.4",
+    "parcel": "^2.15.4"
+  },
+  "dependencies": {
+    "core-js": "^3.43.0",
+    "regenerator-runtime": "^0.14.1"
+  }
+}

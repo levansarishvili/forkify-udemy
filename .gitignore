@@ -1,0 +1,12 @@
+# Node dependencies
+node_modules/
+
+# Parcel cache
+.parcel-cache/
+
+# Build output
+dist/
+
+# Environment files
+.env
+.env.*.local
