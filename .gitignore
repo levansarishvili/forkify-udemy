@@ -10,3 +10,5 @@ dist/
 # Environment files
 .env
 .env.*.local
+
+.prettierrc
